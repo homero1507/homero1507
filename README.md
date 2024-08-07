@@ -26,10 +26,10 @@ Soy un apasionado ingeniero de software con una sólida experiencia en el desarr
 * **[Proyecto 2]:** Breve descripción del proyecto, tecnologías utilizadas y resultados obtenidos.
 -->
 ### Blog
-Si quieres conocer más sobre mis reflexiones y aprendizajes, te invito a visitar mi blog: [[Enlace a tu blog]](https://unospergaminosperdidos.blogspot.com)
+Si quieres conocer más sobre mis reflexiones y aprendizajes, te invito a visitar mi blog: [[Unos pergaminos perdidos]](https://unospergaminosperdidos.blogspot.com)
 
 ### Conécta conmigo
-* **GitHub:** [Tu perfil de GitHub]
+* **GitHub:** [GitHub](https://github.com/homero1507)
 * **LinkedIn:** [Tu perfil de LinkedIn]
 * **Correo electrónico:** [Tu correo electrónico]
 
