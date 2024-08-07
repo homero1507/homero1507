@@ -26,12 +26,12 @@ Soy un apasionado ingeniero de software con una sólida experiencia en el desarr
 * **[Proyecto 2]:** Breve descripción del proyecto, tecnologías utilizadas y resultados obtenidos.
 -->
 ### Blog
-Si quieres conocer más sobre mis reflexiones y aprendizajes, te invito a visitar mi blog: [[Unos pergaminos perdidos]](https://unospergaminosperdidos.blogspot.com)
+Si quieres conocer más sobre mis reflexiones y aprendizajes, te invito a visitar mi blog: [Unos pergaminos perdidos](https://unospergaminosperdidos.blogspot.com)
 
 ### Conécta conmigo
-* **GitHub:** [GitHub](https://github.com/homero1507)
-* **LinkedIn:** [Tu perfil de LinkedIn]
-* **Correo electrónico:** [Tu correo electrónico]
+* **[GitHub](https://github.com/homero1507)**
+* **[LinkedIn](https://www.linkedin.com/in/antonio-carlos-vargas-ortiz/)**
+* **[Escribeme](inganthonyvargas@gmail.com)**
 
 ### Un poco más sobre mí
 Soy un gran fan de El Señor de los Anillos y Sherlock Holmes. Disfruto de la buena literatura y de los desafíos intelectuales. En mi tiempo libre me gusta explorar nuevos lugares, jugar videojuegos y pasar tiempo en la naturaleza.
