@@ -1,6 +1,6 @@
 ## **Antonio Vargas** - Ingeniero de Software y Líder Técnico
 
-### Sobre mí
+### 🔭 Sobre mí
 Soy un apasionado ingeniero de software con una sólida experiencia en el desarrollo de soluciones escalables y robustas. Me encanta explorar nuevas tecnologías y liderar equipos hacia el éxito. 
 
 **💬 preguntame sobre:**
@@ -12,15 +12,21 @@ Soy un apasionado ingeniero de software con una sólida experiencia en el desarr
 * **Sistemas operativos:** Linux
 * **Otras:** DevOps, CI/CD
 
-**Intereses:**
+**🌱 Estudio y aprendo sobre:**
 
 * **Desarrollo:** Diseño de arquitecturas, microservicios, optimización de rendimiento
 * **Liderazgo:** Gestión de equipos, mentoring, resolución de conflictos
 * **Aprendizaje:** Nuevas tecnologías, metodologías ágiles, mejores prácticas
-* **Personal:** Lectura, escritura, videojuegos, senderismo, viajes
+
+**⚡ Me divierte:**  
+* **Lectura:** Novelas, ficción, biografias
+* **Escritura:** Poemas, Canciones, Historias
+* **Videojuegos:** EA Sport FC 24, NFS, Halo, F1
+* **Senderismo:** Parques, Ciudad, Montañas, Playa
+* **Viajes:** Conducir, Nuevos lugares, Videojuegos, Senderismo, Viajes  
 
 <!--
-### Proyectos destacados
+### 🤔 puedes ayudarme con
 
 * **[Proyecto 1]:** Breve descripción del proyecto, tecnologías utilizadas y resultados obtenidos.
 * **[Proyecto 2]:** Breve descripción del proyecto, tecnologías utilizadas y resultados obtenidos.
@@ -38,11 +44,9 @@ Soy un gran fan de El Señor de los Anillos y Sherlock Holmes. Disfruto de la bu
 
 **¡Siempre abierto a nuevas oportunidades!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
