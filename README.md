@@ -37,6 +37,9 @@ Si quieres conocer más sobre mis reflexiones y aprendizajes, te invito a visita
 ### Conécta conmigo
 * **[GitHub](https://github.com/homero1507)**
 * **[LinkedIn](https://www.linkedin.com/in/antonio-carlos-vargas-ortiz/)**
+* **[X](https://x.com/homero1507)**
+* **[Facebook](https://www.facebook.com/acvargasortiz)**
+* **[Instagram](https://www.instagram.com/acvaror/)**
 * **[Email](inganthonyvargas@gmail.com)**
 
 ### Un poco más sobre mí
