@@ -1,4 +1,4 @@
-## **Antonio Vargas** - Ingeniero de Software y Líder Técnico
+## **Antonio Vargas** - Ingeniero de Software | Líder Técnico | CTO | Emprendedor
 
 ### 🔭 Sobre mí
 Soy un apasionado ingeniero de software con una sólida experiencia en el desarrollo de soluciones escalables y robustas. Me encanta explorar nuevas tecnologías y liderar equipos hacia el éxito. 
