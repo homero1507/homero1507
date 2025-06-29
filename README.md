@@ -6,7 +6,7 @@ Soy un apasionado ingeniero de software con una sólida experiencia en el desarr
 **💬 preguntame sobre:**
 
 * **Backend:** Java, Python, Go
-* **Frontend:** JavaScript, TypeScript, Angular
+* **Frontend:** JavaScript, TypeScript, Angular, React
 * **Bases de datos:** SQL, NoSQL
 * **Cloud:** AWS
 * **Sistemas operativos:** Linux
